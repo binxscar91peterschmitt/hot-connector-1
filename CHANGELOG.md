@@ -24,3 +24,5 @@
 
 - Add `HotConnector.disconnect(type, { silent: true })`
 - Change `signIntentsWithAuth` for NearWallet, use accountId as signerId for intents
+
+<!-- Auto-update: 2025-10-16T08:11:02.448262 -->
